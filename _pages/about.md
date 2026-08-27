@@ -57,7 +57,7 @@ For a full list, organized by year or by category, see the [publications page](/
 
 ## Workshops and community
 
-I co-organize the [International Workshop on Quantum Characterization, Verification, and Validation (IWQCVV)](https://iwqcvv.org/) series, with Huangjun Zhu (Fudan), You Zhou (Fudan), and Yan-Xin Li (Fudan). IWQCVV brings together theorists and experimentalists working on scalable QCVV — verification, tomography, entanglement detection, randomized measurements, classical shadows, and the fundamental complexity of all of the above. The first edition (IWQCVV 2023) and the second (IWQCVV 2025, held at Fudan University, Shanghai) are listed on the workshop site, together with a pointer to earlier related events (MWQV 2019, IWQT 2018).
+I co-organize the [International Workshop on Quantum Characterization, Verification, and Validation (IWQCVV)](https://iwqcvv.org/) series, with Huangjun Zhu (Fudan), You Zhou (Fudan), and Yan-Xin Li (Fudan). IWQCVV brings together theorists and experimentalists working on scalable QCVV — verification, tomography, entanglement detection, randomized measurements, classical shadows, and the fundamental complexity of all of the above. The first time (IWQCVV 2023) and the second (IWQCVV 2025, held at Fudan University, Shanghai) are listed on the workshop site.
 
 If you are working on QCVV and would like to be added to a future mailing list, feel free to drop me a line.
 
